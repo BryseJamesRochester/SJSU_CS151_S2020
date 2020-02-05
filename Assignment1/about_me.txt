@@ -1,0 +1,11 @@
+Registered Name: Bryse Rochester
+Preferred Name: Bryse
+Student ID: 014451606
+Major: Computer Science
+email address: bryse.rochester@sjsu.edu
+Student Status: Undergraduate
+Graduating Senior?: no
+Repeating?: no
+CS Classes at SJSU: CS146 Data Structures and Algorithms
+Additional info: none
+Special topics: Just interested in learning proper coding pratices in use in the industry today.
