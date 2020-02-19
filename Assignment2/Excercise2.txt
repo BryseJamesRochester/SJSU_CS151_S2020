@@ -1,0 +1,2 @@
+int is a primitive data type that stores an integer value in 4 bytes.
+Integer is a wrapper class that encases an int, giving it more funcionality, but uses 32 bytes rather than 4. Integer provides additional functionaly such as being able to convert strings to ints and convert integer values into various bases. When you use Integer to store a value you need to create an Integer object.
