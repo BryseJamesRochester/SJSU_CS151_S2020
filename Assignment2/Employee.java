@@ -1,9 +1,9 @@
 
 public class Employee extends Person {
-	int id;
-	String status;
-	String startDate;
-	int pay;
+	private int id;
+	private String status;
+	private String startDate;
+	private int pay;
 	public Employee(String firstName, String lastName, int age, long socialSecurityNumber, String address,
 			String gender, float weight, int id, String status, String startDate, int pay) {
 		super(firstName, lastName, age, socialSecurityNumber, address, gender, weight);

@@ -1,9 +1,9 @@
 
 public final class Product {
-	String name;
-	String description;
-	int price;
-	int maxQuantity;
+	private String name;
+	private String description;
+	private int price;
+	private int maxQuantity;
 	public String getName() {
 		return name;
 	}

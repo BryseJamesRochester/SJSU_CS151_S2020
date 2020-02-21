@@ -1,12 +1,12 @@
 
 public class Person {
-	String firstName;
-	String lastName;
-	int age;
-	long socialSecurityNumber;
-	String address;
-	String gender;
-	float weight;
+	private String firstName;
+	private String lastName;
+	private int age;
+	private long socialSecurityNumber;
+	private String address;
+	private String gender;
+	private float weight;
 	public Person(String firstName, String lastName, int age, long socialSecurityNumber, String address, String gender,
 			float weight) {
 		this.firstName = firstName;

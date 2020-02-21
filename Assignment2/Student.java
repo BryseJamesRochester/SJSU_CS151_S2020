@@ -1,12 +1,12 @@
 
 public class Student {
 	
-	String firstName;
-	String lastName;
-	int age;
-	float gpa;
-	String major;
-	String department;
+	private String firstName;
+	private String lastName;
+	private int age;
+	private float gpa;
+	private String major;
+	private String department;
 	
 	public Student(String firstName, String lastName, int age, float gpa, String major, String department ) {
 		this.firstName = firstName;

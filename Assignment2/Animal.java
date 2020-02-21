@@ -1,11 +1,11 @@
 
 public class Animal {
-	String type;
-	String name;
-	int age;
-	String gender;
-	String environment;
-	int speed;
+	private String type;
+	private String name;
+	private int age;
+	private String gender;
+	private String environment;
+	private int speed;
 	
 	
 	public Animal(String type, String name, int age, String gender, String environment, int speed) {
